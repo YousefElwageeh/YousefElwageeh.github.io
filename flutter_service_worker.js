@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "ef3fff393dbf505f8c0aeb0235a03061",
-"assets/AssetManifest.bin.json": "c5472b8d4104ed59e07907c4b7e359a9",
-"assets/AssetManifest.json": "51614696612ad1d84341629b5cae6ffd",
+const RESOURCES = {"assets/AssetManifest.bin": "5028ba3866f87de1559be0766d13f5f4",
+"assets/AssetManifest.bin.json": "b76b560c323be232ac56360e747770bd",
+"assets/AssetManifest.json": "ec5332d7e59273b0c237545d7f70086e",
 "assets/assets/fonts/Urbanist-VariableFont_wght.ttf": "bfeaaa729391fa9dfdfb3ae36cf5429b",
 "assets/assets/icons/back.svg": "07f8428327d1416f4d4537cb2bfda26f",
 "assets/assets/icons/bookMark.svg": "afc0b8f9844a5d5079e95a3e08b48fda",
@@ -43,7 +43,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ef3fff393dbf505f8c0aeb0235a03061
 "assets/assets/images/Mask%2520group2.png": "68d47b02b9d112ac4531bc4b3fb074fd",
 "assets/assets/images/noChallenges.png": "e61f2057f7d859cb32121c02bfb03194",
 "assets/assets/images/notification.png": "edd91955ce3d2136071a6466612f37e7",
-"assets/assets/images/splashScreen.png": "e7f25760edf2bdca40943a34e9630d1c",
+"assets/assets/images/splashScreen2.png": "e7f25760edf2bdca40943a34e9630d1c",
 "assets/assets/images/Successmark.svg": "439386f17c2dc8b134cea8dbb7e41509",
 "assets/assets/images/Welcome.png": "152c7609ca94086de43582b1408347c6",
 "assets/assets/images/welcomeWeb.png": "98fd86b698eb84ec06eae424d6b10736",
@@ -324,11 +324,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "ef3fff393dbf505f8c0aeb0235a03061
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e80b70a7e9134d469537ba7a5df28ceb",
-"/": "e80b70a7e9134d469537ba7a5df28ceb",
+"index.html": "74a4df97a26fb3d1c42e59d856fc39f1",
+"/": "74a4df97a26fb3d1c42e59d856fc39f1",
 "main.dart.js": "60460482a2b5dc04df5abb799df2a2f1",
 "manifest.json": "df13d2fcdde7088f75f671e2a565eb63",
-"splash/img/light-background.png": "e7f25760edf2bdca40943a34e9630d1c",
 "version.json": "a6942521ae236160430f71f4cb228748"};
 // The application shell files that are downloaded before a service worker can
 // start.
