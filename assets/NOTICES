@@ -5378,7 +5378,6 @@ file_selector_platform_interface
 file_selector_windows
 flutter_lints
 flutter_plugin_android_lifecycle
-google_identity_services_web
 google_maps_flutter
 google_maps_flutter_android
 google_maps_flutter_ios
