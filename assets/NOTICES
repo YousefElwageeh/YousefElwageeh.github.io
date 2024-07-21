@@ -5418,9 +5418,7 @@ url_launcher_windows
 vector_graphics
 vector_graphics_codec
 vector_graphics_compiler
-webview_flutter
 webview_flutter_platform_interface
-webview_flutter_wkwebview
 xdg_directories
 
 Copyright 2013 The Flutter Authors. All rights reserved.
@@ -37359,7 +37357,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
-webview_flutter_android
+webview_flutter_web
 
 Copyright 2013 The Flutter Authors. All rights reserved.
 
