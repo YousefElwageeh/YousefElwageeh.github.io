@@ -1,6 +1,6 @@
 {
-    "name": "sabeq_mobile_frontend_v1",
-    "short_name": "sabeq_mobile_frontend_v1",
+    "name": "test_deeplink",
+    "short_name": "test_deeplink",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
